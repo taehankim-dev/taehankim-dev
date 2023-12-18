@@ -27,6 +27,6 @@
 >![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## :pencil2: Blog
-> [Tistory](https://daily-dev-note95.tistory.com/)
+> [Tistory Link](https://daily-dev-note95.tistory.com/)
 
 ## :page_facing_up: Portfolio Website - [:hash: Click Here]()
