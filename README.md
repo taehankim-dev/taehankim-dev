@@ -1,12 +1,12 @@
 # Welcome!
 ![TaeHan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taehankim-dev&langs_count=10&theme=tokyonight&show_icons=true")
 
-## Personal Info
+##  :information_desk_person: Personal Info
 >+ Kim Tae Han
 >+ Kookmin University
 >+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldmini95@gmail.com)](mailto:goldmini95@gmail.com) : goldmini95@gmail.com
 
-## Technology Stacks
+## :blue_book: Technology Stacks
 >### Frontend
 >![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 >![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@
 >![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 >![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Blog
+## :pencil2: Blog
 > [Tistory](https://daily-dev-note95.tistory.com/)
 
-## :page_facing_up: Portfolio Website - [Click Here]()
+## :page_facing_up: Portfolio Website - [:hash: Click Here]()
