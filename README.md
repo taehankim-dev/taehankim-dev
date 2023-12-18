@@ -1,4 +1,5 @@
 ### Front-End Developer
-![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ### I
