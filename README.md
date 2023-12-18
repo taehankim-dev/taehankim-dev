@@ -2,9 +2,9 @@
 ![TaeHan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taehankim-dev&langs_count=10&theme=tokyonight&show_icons=true")
 
 ## Personal Info
-> Kim Tae Han
-> Kookmin University
-> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldmini95@gmail.com)](mailto:goldmini95@gmail.com)
+>+ Kim Tae Han
+>+ Kookmin University
+>+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldmini95@gmail.com)](mailto:goldmini95@gmail.com)
 
 ## Technology Stacks
 ### Frontend
