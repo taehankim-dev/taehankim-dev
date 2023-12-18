@@ -4,7 +4,7 @@
 ## Personal Info
 >+ Kim Tae Han
 >+ Kookmin University
->+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldmini95@gmail.com)](mailto:goldmini95@gmail.com)
+>+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldmini95@gmail.com)](mailto:goldmini95@gmail.com) : goldmini95@gmail.com
 
 ## Technology Stacks
 ### Frontend
